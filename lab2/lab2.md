@@ -129,3 +129,6 @@ INSERT INTO ArticleCategory (ArticleID, CategoryID) VALUES
 ![Таблиця Articles, зображена в PostgreSQL](lab2_articles.png)
 ### ArticleCategory
 ![Таблиця ArticleCategory, зображена в PostgreSQL](lab2_articlecategory.jpg)
+
+## Висновок
+На даній лабораторній роботи я працював з реляційною базою даних в PostqueSQL. По ходу її виконання я створив таблицю за допомогою SQL на основі ER-діаграми та наповнив її даними. При перевірці в pgAdmin можна побачити, що таблиці були заповнені даними, які були вказані у скрипті після створення самих таблиць. Проблем при виконанні SQL-скрипта не виникло.
