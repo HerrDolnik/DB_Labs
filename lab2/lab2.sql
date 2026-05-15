@@ -55,5 +55,3 @@ INSERT INTO ArticleCategory (ArticleID, CategoryID) VALUES
 (2, 2),
 (3, 2),
 (3, 3);
-
-
