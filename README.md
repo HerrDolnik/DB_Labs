@@ -14,3 +14,5 @@
 Шлях до звіту: [***lab4/lab4.md***](https://github.com/HerrDolnik/DB_Labs/blob/main/lab4/lab4.md)
 ### Лабораторна робота №5: Нормалізація бази даних
 Шлях до звіту: [***lab5/lab5.md***](https://github.com/HerrDolnik/DB_Labs/blob/main/lab5/lab5.md)
+### Лабораторна робота №5: Міграція за допомогою Flyway
+Шлях до звіту: [***lab6/lab6.md***](https://github.com/HerrDolnik/DB_Labs/blob/main/lab6/lab6.md)
