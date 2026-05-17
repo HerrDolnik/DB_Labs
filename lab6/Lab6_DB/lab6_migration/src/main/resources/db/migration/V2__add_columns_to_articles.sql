@@ -1,0 +1,3 @@
+ALTER TABLE Articles
+    ADD COLUMN Status VARCHAR(20) DEFAULT 'published',
+    ADD COLUMN ViewsCount INTEGER DEFAULT 0;
